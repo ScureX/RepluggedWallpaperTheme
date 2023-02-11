@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "wallpaper-theme",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "A theme that makes everything the wallpaper",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -13,13 +13,14 @@
     "lint:fix": "prettier ./src --write"
   },
   "keywords": [],
-  "author": "",
+  "author": "Takyon",
   "license": "ISC",
   "devDependencies": {
     "@parcel/config-default": "^2.8.3",
     "@parcel/core": "^2.8.3",
     "@types/node": "^18.11.15",
     "prettier": "^2.8.1",
-    "replugged": "4.0.0-beta0.25"
+    "replugged": "4.0.0-beta0.25",
+    "tsx": "^3.12.1"
   }
 }

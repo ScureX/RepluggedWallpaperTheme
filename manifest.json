@@ -1,11 +1,11 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "Takyon.WallpaperTheme",
+  "name": "Wallpaper Theme",
+  "description": "A theme that makes everything the wallpaper",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Takyon",
+    "discordID": "293811410532827137",
+    "github": "ScureX"
   },
   "version": "1.0.0",
   "updater": {
