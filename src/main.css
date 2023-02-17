@@ -66,7 +66,49 @@
   background-color: rgb(0, 153, 255, 0.20) !important;
 }
 
+/* reply bow thing */
+/* .repliedMessage-3Z6XBG .cozy-VmLDNB.repliedMessage-3Z6XBG::before {
+  --avatar-size: 40px;
+  --gutter: 16px;
+}
+
+.repliedMessage-3Z6XBG .repliedMessage-3Z6XBG::before {
+  background-color: rgba(40, 43, 48, 1) !important;
+  color: rgba(40, 43, 48, 1) !important;
+  --spine-width: 2px;
+  content: "";
+  display: block;
+  position: absolute;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  top: 50%;
+  right: 100%;
+  bottom: 0;
+  left: calc(var(--avatar-size)/2*-1 + var(--gutter)*-1);
+  margin-right: var(--reply-spacing);
+  margin-top: calc(var(--spine-width)*-1/2);
+  margin-left: calc(var(--spine-width)*-1/2);
+  margin-bottom: calc(0.125rem - 4px);
+  border-left: var(--spine-width) solid var(--interactive-muted);
+  border-bottom: 0 solid var(--interactive-muted);
+  border-right: 0 solid var(--interactive-muted);
+  border-top: var(--spine-width) solid var(--interactive-muted);
+  border-top-left-radius: 6px;
+} */
+
 /* highlight active vc */
 .modeConnected-NrO4cP .content-1gYQeQ {
   background-color: rgba(0, 255, 64, 0.15) !important;
+}
+
+/* muted channel name color */
+.iconVisibility-vptxma.wrapper-NhbLHG.modeMuted-2T4MDZ .content-1gYQeQ .mainContent-20q_Hp .name-28HaxV.overflow-1wOqNV .channelName-3KPsGw {
+  /* color: rgba(40, 43, 48, 0.8) !important; */
+  color: rgba(243, 244, 245, 0.15) !important;
+}
+
+/* muted channel # color */
+.iconVisibility-vptxma.wrapper-NhbLHG.modeMuted-2T4MDZ .content-1gYQeQ .mainContent-20q_Hp .iconContainer-21RCa3 .icon-2W8DHg {
+  /* color: rgba(40, 43, 48, 0.8) !important; */
+  color: rgba(243, 244, 245, 0.15) !important;
 }
