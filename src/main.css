@@ -36,7 +36,7 @@
   }
 
   16.67% {
-    background-color: rgba(255, 165, 0, 0.4);
+    background-color: rgba(255, 165, 0, 0.40);
   }
 
   33.33% {
@@ -102,7 +102,7 @@
 }
 
 /* muted channel name color */
-.iconVisibility-vptxma.wrapper-NhbLHG.modeMuted-2T4MDZ .content-1gYQeQ .mainContent-20q_Hp .name-28HaxV.overflow-1wOqNV .channelName-3KPsGw {
+.iconVisibility-vptxma.wrapper-NhbLHG.modeMuted-2T4MDZ .content-1gYQeQ .mainContent-20q_Hp .name-28HaxV.channelName-3KPsGw.overflow-1wOqNV {
   /* color: rgba(40, 43, 48, 0.8) !important; */
   color: rgba(243, 244, 245, 0.15) !important;
 }
