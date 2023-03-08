@@ -16,6 +16,8 @@
   --background-secondary-alt: rgba(40, 43, 48, 0.15) !important;
   --background-tertiary: rgba(40, 43, 48, 0.15) !important;
   --chat-background: rgba(40, 43, 48, 0.15) !important;
+  --bg-overlay-2: rgba(40, 43, 48, 0.15) !important;
+  --home-background: rgba(40, 43, 48, 0.15) !important;
 
   --interactive-muted: var(--primary-dark-400);
 
