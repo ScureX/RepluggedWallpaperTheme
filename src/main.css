@@ -18,8 +18,10 @@
   --chat-background: rgba(40, 43, 48, 0.15) !important;
   --bg-overlay-2: rgba(40, 43, 48, 0.15) !important;
   --home-background: rgba(40, 43, 48, 0.15) !important;
+  --bg-overlay-chat: rgba(40, 43, 48, 0.15) !important;
 
-  --interactive-muted: var(--primary-dark-400);
+  --interactive-muted: rgba(148, 155, 164, 0.3) !important;
+  --input-background: rgba(40, 43, 48, 0.3) !important;
 
   /* chat bar */
   --channeltextarea-background: rgba(40, 43, 48, 0.3) !important;
