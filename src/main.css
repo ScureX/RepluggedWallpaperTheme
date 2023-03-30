@@ -23,6 +23,9 @@
   --interactive-muted: rgba(148, 155, 164, 0.3) !important;
   --input-background: rgba(40, 43, 48, 0.3) !important;
 
+  --deprecated-text-input-bg: rgba(40, 43, 48, 0.3) !important;
+  --deprecated-text-input-border: gba(40, 43, 48, 0.5) !important;
+
   /* chat bar */
   --channeltextarea-background: rgba(40, 43, 48, 0.3) !important;
 }
@@ -116,3 +119,10 @@
   /* color: rgba(40, 43, 48, 0.8) !important; */
   color: rgba(243, 244, 245, 0.15) !important;
 }
+
+/* friend activity vc stuff */
+.body-16rSsp.inset-SbsSFp {
+  background-color: unset !important;
+}
+
+.addFriendInputWrapper-kkoSV9 {}
