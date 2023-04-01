@@ -20,6 +20,8 @@
   --home-background: rgba(40, 43, 48, 0.15) !important;
   --bg-overlay-chat: rgba(40, 43, 48, 0.15) !important;
 
+  --profile-body-background-color: rgba(40, 43, 48, 0.75) !important;
+
   --interactive-muted: rgba(148, 155, 164, 0.3) !important;
   --input-background: rgba(40, 43, 48, 0.3) !important;
 
@@ -29,6 +31,12 @@
   /* chat bar */
   --channeltextarea-background: rgba(40, 43, 48, 0.3) !important;
 }
+
+/* profile */
+.userProfileInnerThemedNonPremium-1gT-zY {
+  background: rgba(40, 43, 48, 0.75) !important;
+}
+
 
 /* top left discord icon fade */
 .childWrapper-1j_1ub {
